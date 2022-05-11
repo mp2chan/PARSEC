@@ -1,2 +1,2 @@
 # PARSEC
-a Python Application Regarding System-level Embedded Communications
+A Python Application Regarding System-level Embedded Communications
